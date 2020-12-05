@@ -46,5 +46,6 @@ KAFKA_HOME_DIRECTORY > .\bin\windows\kafka-console-consumer.bat --bootstrap-serv
 
 Building and running the application
 
-> gradle build
-> gradle bootRun
+>gradle build
+
+>gradle bootRun
