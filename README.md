@@ -34,11 +34,19 @@ Creating messages using Kafka
 
 KAFKA_HOME_DIRECTORY > .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic TestTopic 
 
-> Test input data
-> New Data
-> Welcome to daily code buffer
-> Happy learning
-> Indian spices
+> Bora Bora
+
+> Tahiti
+
+> Vanuatu
+
+> Tuvalu
+
+> Tonga
+
+> Fiji
+
+> Nassau
 
 
 KAFKA_HOME_DIRECTORY > .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic TestTopic --from-beginning
